@@ -33,15 +33,15 @@
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>[BundleID]</string>
+          <string>com.joysae.gostarting</string>
           <key>bundle-version</key>
-          <string>[Bundle版本]</string>
+          <string>1.0.1</string>
           <key>kind</key>
           <string>software</string>
           <key>subtitle</key>
-          <string></string>
+          <string>gostarting</string>
           <key>title</key>
-          <string>[应用程序名]</string>
+          <string>gostarting</string>
         </dict>
       </dict>
     </array>
